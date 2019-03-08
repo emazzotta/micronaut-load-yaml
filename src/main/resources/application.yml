@@ -1,0 +1,8 @@
+micronaut:
+  application:
+    name: micronaut-load-yaml
+
+mime:
+  types:
+    - "text/csv"
+    - "application/vnd.ms-excel"
