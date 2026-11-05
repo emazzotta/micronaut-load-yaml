@@ -20,7 +20,7 @@ repositories {
 
 dependencyManagement {
     imports {
-        mavenBom 'io.micronaut:micronaut-bom:3.10.17'
+        mavenBom 'io.micronaut:micronaut-bom:3.10.18'
     }
 }
 
